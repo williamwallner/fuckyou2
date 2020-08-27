@@ -1,0 +1,22 @@
+{
+  "name": "fuckyou2",
+  "version": "1.0.0",
+  "description": "Hello name is William. I comeing from India. work on microsoft boxX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamwallner/fuckyou2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamwallner/fuckyou2/issues"
+  },
+  "homepage": "https://github.com/williamwallner/fuckyou2#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
